@@ -70,6 +70,8 @@ li:hover{
     float: left;
 }
 .photos{
+    line-height: 250px;
+    text-align: center;
     font-size: larger;
     width: 19%;
     height:400px ;
