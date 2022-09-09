@@ -50,11 +50,11 @@ li:hover{
     border: 2px solid gray;
     border-radius: 130px;
     float: left;
-    margin: 20px;
+    margin: 1.5%;
     color: aliceblue;
     text-align: center;
-    margin-left: 190px;
-    margin-right: 100px;
+    margin-left:8%;
+    margin-right: 8%;
     line-height:150px ;
 }
 .d1:hover{
